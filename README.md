@@ -1,4 +1,4 @@
-# README for Insect-Detection-for-Resource-Constrained-IoT-Devices
+# README
 
 ## Overview  
 This project focuses on implementing and evaluating various convolutional neural networks (CNNs) for image classification tasks. The primary goal is to compare the performance of different architectures, optimize their accuracy, and analyze their suitability for deployment on resource-constrained environments.
